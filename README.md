@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on building scalable full-stack applications using Next.js, React.js, Node.js, and MongoDB.<br>🤝 I’m looking to collaborate on innovative web apps, open-source projects, and tech communities.<br>💬 I’m looking for help with advanced backend architecture.<br>🌱 I’m currently learning Docker, and advanced system design.<br>📫 Ask me about frontend architecture, building responsive UIs, or full-stack project ideas.<br>⚡ Fun fact: I love turning complex problems into simple, beautiful web solutions!
+🎯 I’m currently working on building scalable full-stack applications using Next.js, React.js, Express.js, Node.js, and MongoDB.<br>🤝 I’m looking to collaborate on innovative web apps, open-source projects, and tech communities.<br>🌱 I’m currently learning advanced backend architecture, and advanced system design.<br>📫 Ask me about frontend architecture, building responsive UIs, or full-stack project ideas.<br>⚡ Fun fact: I love turning complex problems into simple, beautiful web solutions!
 
 
 ## 🌐 Socials:
